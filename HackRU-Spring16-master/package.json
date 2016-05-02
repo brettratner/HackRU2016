@@ -1,0 +1,26 @@
+{
+  "name": "ru-broke",
+  "version": "1.0.0",
+  "description": "Small command line utility to check some info about bank accounts.",
+  "main": "app.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "fs": "^0.0.2",
+    "prompt": "^1.0.0",
+    "request": "^2.71.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbohinski/HackRU-Spring16.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kbohinski/HackRU-Spring16/issues"
+  },
+  "homepage": "https://github.com/kbohinski/HackRU-Spring16#readme"
+}
